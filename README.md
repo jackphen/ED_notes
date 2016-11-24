@@ -9,6 +9,8 @@ The .tex file is divided in chapters. All chapters are then included in the "ED-
 
 Be aware that if you use particular commands you have to add the proper library in ED.tex
 
+Please respect the varoius branches do not work on the master branch
+
 This document purpose is to help the study of good students not for cheating purpouses so please respect this aim.
 
 Enjoy.
